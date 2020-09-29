@@ -1,4 +1,9 @@
 body{
-    background-color: aqua;
-    opacity: 0.9;
+    background-color: #1b8dc2;
+}
+header{
+    background-color: rgb(199, 172, 209);
+    height: 50vh;
+    width: 100%;
+    
 }
